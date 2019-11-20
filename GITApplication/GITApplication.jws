@@ -23,9 +23,7 @@
       <string v="oracle.jdeveloper.model.PathsConfiguration/ApplicationBuildToolContentSet"/>
       <string v="oracle.jdeveloper.model.PathsConfiguration/ResourceBundlesContentSet"/>
    </list>
-   <list n="listOfChildren">
-      <hash><url n="URL" path="SBProject/SBProject.jpr"/></hash>
-   </list>
+   <list n="listOfChildren"/>
    <hash n="oracle.jdeveloper.deploy.dt.DeploymentProfiles">
       <hash n="profileDefinitions">
          <hash n="GITApplication">
